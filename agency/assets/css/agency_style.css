@@ -1,0 +1,134 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Agency - Bootstrap Template
+    Template URI: vendortise.com
+    Author: Vendortise
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    01. Theme default CSS
+	02. Header
+    03. Hero
+	04. Footer
+
+-----------------------------------------------------------------------------------*/
+/*===========================
+      01.COMMON css 
+===========================*/
+@import url('../../../assets/css/themes-main-style.css');
+
+/*========= PORTFOLIO =========== */
+/* .single-portfolio {
+	width: 370px;
+	height: 350px;
+} */
+
+/* .single-portfolio .portfolio-image,
+.team-style-eleven,
+.team-style-eleven .team-image {
+	width: 100%;
+	height: 100%;
+}
+
+.single-portfolio .portfolio-image > img,
+.team-style-eleven .team-image img {
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+} */
+
+/* @media (max-width: 768px) {
+	.single-portfolio {
+		width: auto;
+		height: auto;
+	}
+}  */
+
+/*========= TESTIMONIAL =========== */
+/* .testimonial-area
+	.single-testimonial
+	.testimonial-header
+	.client-info
+	.client-img {
+	width: 55px;
+}
+
+.testimonial-area
+	.single-testimonial
+	.testimonial-header
+	.client-info
+	.client-img
+	img {
+	object-fit: cover;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+} */
+
+/*========= TEAMS =========== */
+
+/* .single-portfolio .portfolio-image, */
+/* .team-style-eleven,
+.team-style-eleven .team-image {
+	width: 100%;
+	height: 100%;
+} */
+
+/* .single-portfolio .portfolio-image > img,
+.team-style-eleven .team-image img {
+	object-fit: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.team-style {
+	width: auto;
+	height: 512px;
+	border: 1px solid #dddddd;
+}
+
+@media (max-width: 320px) {
+	.team-style {
+		height: 374px;
+	}
+}
+
+@media only screen and (min-width: 321px) and (max-width: 409px) {
+	.team-style {
+		height: 437px;
+	}
+}
+@media only screen and (min-width: 410px) and (max-width: 490px) {
+	.team-style {
+		height: 510px;
+	}
+}
+@media only screen and (min-width: 491px) and (max-width: 767px) {
+	.team-style {
+		height: 600px;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+	.team-style {
+		height: 500px;
+	}
+}
+@media only screen and (min-width: 993px) and (max-width: 1099px) {
+	.team-style {
+		height: 437px;
+	}
+}
+
+@media (max-width: 767px) {
+	.team-style {
+		margin: 0px 20px 0px 20px;
+	}
+}
+
+.team-style-eleven {
+	margin: 0;
+} */
